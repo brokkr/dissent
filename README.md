@@ -9,7 +9,8 @@ Dissent is an easylist filter guided by the following principles:
 
 * Improved privacy: A rule suppressing interaction must result in equivalent or 
 less data collection than an explicitly stated "i do not consent" to anything 
-but the bare minimum of data collection and cookies.
+but the bare minimum of data collection and cookies. Yes, that does rely on the 
+site respecting the idea that consent cannot be inferred from silence.
 
 * Simplicity: One line per rule, no regex
 

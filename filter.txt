@@ -1,5 +1,7 @@
 ||cdn.cookielaw.org^
 ||sourcepoint.theguardian.com^
+||interactive.guim.co.uk^
+||contributions.guardianapis.com^
 ||consent.cookiebot.com^
 ||static.wikia.nocookie.net^$script
 ||quantcast.mgr.consensu.org^$script
