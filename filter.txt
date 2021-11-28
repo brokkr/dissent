@@ -1,0 +1,8 @@
+||cdn.cookielaw.org^
+||sourcepoint.theguardian.com^
+||consent.cookiebot.com^
+||static.wikia.nocookie.net^$script
+||quantcast.mgr.consensu.org^$script
+www.polygon.com##.m-privacy-consent
+stackoverflow.com##.js-consent-banner
+stackexchange.com##.js-consent-banner
