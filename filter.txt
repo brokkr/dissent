@@ -5,6 +5,7 @@
 ||consent.cookiebot.com^
 ||static.wikia.nocookie.net^$script
 ||quantcast.mgr.consensu.org^$script
+||consent.trustarc.com^$script
 www.polygon.com##.m-privacy-consent
 stackoverflow.com##.js-consent-banner
 stackexchange.com##.js-consent-banner
